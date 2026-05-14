@@ -119,6 +119,13 @@ If you use this code or build upon this work, please cite:
 }
 ```
 
+## Contact
+
+For questions about the code or the paper, please contact:
+
+**Cristina Ioana Muntean** — [cristina.muntean@isti.cnr.it](mailto:cristina.muntean@isti.cnr.it)
+HPC Laboratory, ISTI-CNR, Pisa, Italy
+
 ## License
 
 This code is released under the [MIT License](LICENSE).
